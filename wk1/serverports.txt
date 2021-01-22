@@ -1,0 +1,24 @@
+1) What is the definition of server port?
+
+A port is an endpoint for communication
+
+2) What is server port range?
+
+0 - 65535
+
+3) How many bits does number above represent?
+
+16 bits
+
+4) State 10 common server ports
+
+80
+443
+53
+23
+10
+123
+194
+22
+25
+119
