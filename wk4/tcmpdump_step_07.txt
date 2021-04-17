@@ -1,0 +1,52 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -r 0001.pcap
+
+reading from file 0001.pcap, link-type EN10MB (Ethernet)
+21:25:22.227432 IP 138.197.151.44.ssh > dsl-204-19-189-121.cooptel.qc.ca.60376: Flags [P.], seq 350078242:350078286, ack 2488458094, win 501, length 44
+21:25:22.227524 IP 138.197.151.44.ssh > dsl-204-19-189-121.cooptel.qc.ca.60376: Flags [P.], seq 44:152, ack 1, win 501, length 108
+21:25:22.227660 IP 138.197.151.44.ssh > dsl-204-19-189-121.cooptel.qc.ca.60376: Flags [P.], seq 152:188, ack 1, win 501, length 36
+21:25:22.236471 IP dsl-204-19-189-121.cooptel.qc.ca.60376 > 138.197.151.44.ssh: Flags [.], ack 188, win 515, length 0
+21:25:25.717622 IP 91.193.254.183.39967 > 138.197.151.44.telnet: Flags [S], seq 3618185299, win 3386, length 0
+21:25:28.804439 IP 194.147.140.104.51276 > 138.197.151.44.8074: Flags [S], seq 646258183, win 1024, length 0
+21:25:30.511490 IP 194.147.140.90.48735 > 138.197.151.44.5013: Flags [S], seq 2269540979, win 1024, length 0
+21:25:35.838330 IP kraken-2-0-9200-20000-lon1-0.0.0.0-0.61953 > 138.197.151.44.9200: Flags [S], seq 2181509036, win 1024, length 0
+21:25:36.512086 IP 95.179.147.12.vultr.com.37820 > 138.197.151.44.7112: Flags [S], seq 497776715, win 29200, options [mss 1460,sackOK,TS val 2071549439 ecr 0,nop,wscale 7], length 0
+21:25:37.510976 IP 95.179.147.12.vultr.com.37820 > 138.197.151.44.7112: Flags [S], seq 497776715, win 29200, options [mss 1460,sackOK,TS val 2071549689 ecr 0,nop,wscale 7], length 0
+21:25:39.514419 IP 95.179.147.12.vultr.com.37820 > 138.197.151.44.7112: Flags [S], seq 497776715, win 29200, options [mss 1460,sackOK,TS val 2071550190 ecr 0,nop,wscale 7], length 0
+21:25:52.317654 IP xplr-204-237-50-196.xplornet.com.16693 > 138.197.151.44.openvpn: UDP, length 54
+21:25:54.827589 IP xplr-204-237-50-196.xplornet.com.16693 > 138.197.151.44.openvpn: UDP, length 54
+21:25:55.892447 IP 194.147.140.109.56272 > 138.197.151.44.35466: Flags [S], seq 3371936596, win 1024, length 0
+21:25:58.568119 IP xplr-204-237-50-196.xplornet.com.16693 > 138.197.151.44.openvpn: UDP, length 54
+21:26:01.980861 IP 194.147.140.109.56272 > 138.197.151.44.35428: Flags [S], seq 1306257000, win 1024, length 0
+21:26:06.462263 IP xplr-204-237-50-196.xplornet.com.16693 > 138.197.151.44.openvpn: UDP, length 54
+21:26:15.165756 IP 185.236.11.2.54382 > 138.197.151.44.4038: Flags [S], seq 3246340924, win 1024, length 0
+21:26:16.022694 IP 194.147.140.109.56272 > 138.197.151.44.34614: Flags [S], seq 2293589178, win 1024, length 0
+21:26:22.877907 IP xplr-204-237-50-196.xplornet.com.16693 > 138.197.151.44.openvpn: UDP, length 54
+21:26:23.275405 IP 194.147.140.109.56272 > 138.197.151.44.50957: Flags [S], seq 319443125, win 1024, length 0
+21:26:27.801179 IP 194.147.140.90.48735 > 138.197.151.44.2012: Flags [S], seq 903838123, win 1024, length 0
+21:26:33.647170 IP 194.147.140.109.56272 > 138.197.151.44.57925: Flags [S], seq 2751905819, win 1024, length 0
+21:26:42.034154 IP hollybeach.it.44633 > 138.197.151.44.http: Flags [S], seq 2921472354, win 1024, length 0
+21:26:42.034254 IP 138.197.151.44.http > hollybeach.it.44633: Flags [S.], seq 1372953076, ack 2921472355, win 64240, options [mss 1460], length 0
+21:26:42.153171 IP hollybeach.it.44633 > 138.197.151.44.http: Flags [R], seq 2921472355, win 0, length 0
+21:26:42.154461 IP hollybeach.it.44633 > 138.197.151.44.http: Flags [R], seq 2921472355, win 1200, length 0
+21:26:42.459647 IP kraken-2-0-1946-20000-ams3-0.0.0.0-0.61953 > 138.197.151.44.1946: Flags [S], seq 3136059402, win 1024, length 0
+21:26:47.246128 ARP, Request who-has 138.197.144.1 tell 138.197.151.44, length 28
+21:26:47.247677 ARP, Reply 138.197.144.1 is-at fe:00:00:00:01:01 (oui Unknown), length 46
+21:26:54.043141 IP xplr-204-237-50-196.xplornet.com.16686 > 138.197.151.44.openvpn: UDP, length 54
+21:26:54.735750 IP 194.147.140.102.50966 > 138.197.151.44.1288: Flags [S], seq 399252152, win 1024, length 0
+21:26:56.107425 IP xplr-204-237-50-196.xplornet.com.16686 > 138.197.151.44.openvpn: UDP, length 54
+21:27:00.182700 IP xplr-204-237-50-196.xplornet.com.16686 > 138.197.151.44.openvpn: UDP, length 54
+21:27:08.687011 IP xplr-204-237-50-196.xplornet.com.16686 > 138.197.151.44.openvpn: UDP, length 54
+21:27:09.563506 IP scanner-11.ch1.censys-scanner.com.51674 > 138.197.151.44.7788: Flags [S], seq 284342819, win 1024, options [mss 1460], length 0
+21:27:18.946085 IP 104.236.52.216.51403 > 138.197.151.44.ssh: Flags [S], seq 1020986539, win 65535, length 0
+21:27:18.946214 IP 138.197.151.44.ssh > 104.236.52.216.51403: Flags [S.], seq 1497352002, ack 1020986540, win 64240, options [mss 1460], length 0
+21:27:19.041437 IP 104.236.52.216.51403 > 138.197.151.44.ssh: Flags [R], seq 1020986540, win 0, length 0
+21:27:24.110149 ARP, Request who-has 138.197.144.1 tell 138.197.151.44, length 28
+21:27:24.111854 ARP, Reply 138.197.144.1 is-at fe:00:00:00:01:01 (oui Unknown), length 46
+21:27:24.257587 IP xplr-204-237-50-196.xplornet.com.16686 > 138.197.151.44.openvpn: UDP, length 54
+21:27:43.306804 IP 212.175.157.87.64065 > 138.197.151.44.microsoft-ds: Flags [S], seq 15541182, win 8192, options [mss 1460,nop,wscale 8,nop,nop,sackOK], length 0
+21:27:48.073609 IP 222.219.183.190.43548 > 138.197.151.44.ms-sql-s: Flags [S], seq 944225260, win 1024, length 0
+21:27:57.132552 IP xplr-204-237-50-196.xplornet.com.51435 > 138.197.151.44.openvpn: UDP, length 54
+21:27:59.509427 IP xplr-204-237-50-196.xplornet.com.51435 > 138.197.151.44.openvpn: UDP, length 54
+21:28:03.097326 IP xplr-204-237-50-196.xplornet.com.51435 > 138.197.151.44.openvpn: UDP, length 54
+21:28:10.793006 IP 194.147.140.109.56272 > 138.197.151.44.54295: Flags [S], seq 4245450027, win 1024, length 0
+21:28:11.257675 IP xplr-204-237-50-196.xplornet.com.51435 > 138.197.151.44.openvpn: UDP, length 54

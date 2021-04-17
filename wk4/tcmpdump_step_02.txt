@@ -1,0 +1,12 @@
+root@lamp-ubuntu-s-1vcpu-1gb-tor1-01:~# tcpdump -c 5 -i eth0
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+21:17:49.708418 IP 138.197.151.44.ssh > dsl-204-19-189-121.cooptel.qc.ca.60376: Flags [P.], seq 345126862:345126970, ack 2488448642, win 501, length 108
+21:17:49.708643 IP 138.197.151.44.ssh > dsl-204-19-189-121.cooptel.qc.ca.60376: Flags [P.], seq 108:252, ack 1, win 501, length 144
+21:17:49.708775 IP 138.197.151.44.ssh > dsl-204-19-189-121.cooptel.qc.ca.60376: Flags [P.], seq 252:288, ack 1, win 501, length 36
+21:17:49.709694 IP 138.197.151.44.60481 > dns.google.domain: 17770+ PTR? 121.189.19.204.in-addr.arpa. (45)
+21:17:49.717594 IP dsl-204-19-189-121.cooptel.qc.ca.60376 > 138.197.151.44.ssh: Flags [.], ack 288, win 511, length 0
+5 packets captured
+19 packets received by filter
+0 packets dropped by kernel
