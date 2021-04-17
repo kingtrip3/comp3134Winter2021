@@ -1,0 +1,32 @@
+Sportsnet.ca
+IP Address: 23.33.41.89
+Akamai Technologies
+www.cscglobal.com
+DNS a1-220.akam.net   193.108.91.220
+
+
+georgebrown.ca
+
+IP Address: 99.79.139.11
+Webnames.ca Inc.
+www.webnames.ca
+DNS ns1.georgebrown.ca hostmaster@georgebrown.ca 2015053088 600 600 1209600 3600
+
+tsn.ca
+104.82.42.206
+Akamai Technologies
+MarkMonitor International Canada Ltd.
+DNS pdns1.ultradns.net admindns@bellmedia.ca 2016032523 3600 900 604800 300
+
+
+thestar.ca
+192.206.144.180
+Toronto Star
+easyDNS Technologies Inc.
+DNS ns1.thestar.com dns-admin@thestar.ca 2021032703 3600 900 604800 3600
+
+netflix.com
+54.237.226.164
+Acquia Hosting
+MarkMonitor, Inc.
+DNS MarkMonitor, Inc.

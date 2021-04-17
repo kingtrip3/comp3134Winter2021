@@ -1,0 +1,58 @@
+(base) matthewmukherjee@Matthews-MacBook-Pro ~ % nmap twitter.com
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-04-17 09:11 EDT
+Nmap scan report for twitter.com (104.244.42.129)
+Host is up (0.070s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 50.83 seconds
+
+
+(base) matthewmukherjee@Matthews-MacBook-Pro ~ % nmap twitter.com
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-04-17 09:11 EDT
+Nmap scan report for twitter.com (104.244.42.129)
+Host is up (0.070s latency).
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+
+Nmap done: 1 IP address (1 host up) scanned in 50.83 seconds
+(base) matthewmukherjee@Matthews-MacBook-Pro ~ % nmap crunchyroll.com
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-04-17 09:13 EDT
+Stats: 0:00:20 elapsed; 0 hosts completed (1 up), 1 undergoing Connect Scan
+Connect Scan Timing: About 47.55% done; ETC: 09:14 (0:00:23 remaining)
+
+
+Nmap done: 1 IP address (1 host up) scanned in 41.97 seconds
+(base) matthewmukherjee@Matthews-MacBook-Pro ~ % nmap yahoo.ca
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-04-17 09:14 EDT
+Nmap scan report for yahoo.ca (74.6.136.150)
+Host is up (0.028s latency).
+Other addresses for yahoo.ca (not scanned): 98.136.103.23 212.82.100.150
+rDNS record for 74.6.136.150: w2.src.vip.bf1.yahoo.com
+Not shown: 998 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 42.05 seconds
+
+
+Nmap done: 1 IP address (1 host up) scanned in 42.05 seconds
+(base) matthewmukherjee@Matthews-MacBook-Pro ~ % nmap facebook.com
+Starting Nmap 7.91 ( https://nmap.org ) at 2021-04-17 09:15 EDT
+Nmap scan report for facebook.com (157.240.2.35)
+Host is up (0.014s latency).
+rDNS record for 157.240.2.35: edge-star-mini-shv-01-ort2.facebook.com
+Not shown: 996 filtered ports
+PORT     STATE  SERVICE
+80/tcp   open   http
+443/tcp  open   https
+843/tcp  closed unknown
+5222/tcp closed xmpp-client
+
+Nmap done: 1 IP address (1 host up) scanned in 42.10 seconds

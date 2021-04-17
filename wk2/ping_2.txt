@@ -1,0 +1,20 @@
+(base) matthewmukherjee@Matthews-MacBook-Pro ~ % ping tesla.com
+PING tesla.com (199.66.11.62): 56 data bytes
+64 bytes from 199.66.11.62: icmp_seq=0 ttl=243 time=85.420 ms
+64 bytes from 199.66.11.62: icmp_seq=1 ttl=243 time=83.847 ms
+64 bytes from 199.66.11.62: icmp_seq=2 ttl=243 time=84.585 ms
+64 bytes from 199.66.11.62: icmp_seq=3 ttl=243 time=90.771 ms
+64 bytes from 199.66.11.62: icmp_seq=4 ttl=243 time=89.312 ms
+64 bytes from 199.66.11.62: icmp_seq=5 ttl=243 time=84.387 ms
+64 bytes from 199.66.11.62: icmp_seq=6 ttl=243 time=84.018 ms
+64 bytes from 199.66.11.62: icmp_seq=7 ttl=243 time=83.797 ms
+64 bytes from 199.66.11.62: icmp_seq=8 ttl=243 time=84.028 ms
+64 bytes from 199.66.11.62: icmp_seq=9 ttl=243 time=90.465 ms
+ç64 bytes from 199.66.11.62: icmp_seq=10 ttl=243 time=84.525 ms
+64 bytes from 199.66.11.62: icmp_seq=11 ttl=243 time=83.674 ms
+64 bytes from 199.66.11.62: icmp_seq=12 ttl=243 time=84.472 ms
+64 bytes from 199.66.11.62: icmp_seq=13 ttl=243 time=83.860 ms
+
+--- tesla.com ping statistics ---
+14 packets transmitted, 14 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 83.674/85.511/90.771/2.494 ms

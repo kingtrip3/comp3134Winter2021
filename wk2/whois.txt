@@ -1,0 +1,119 @@
+Registrant	George Brown College (Toronto)
+Registrant Country	ca
+Registrar	Webnames.ca Inc.
+IANA ID: 456
+URL: www.webnames.ca
+Whois Server: whois.ca.fury.ca
+Registrar Status	clientTransferProhibited
+Dates	6,862 days old
+Created on 2002-07-04
+Expires on 2021-07-03
+Updated on 2021-01-23	  
+Name Servers	NS1.D-ZONE.CA (has 6,184 domains)
+NS1.GEORGEBROWN.CA (has 1 domains)
+NS2.D-ZONE.CA (has 6,184 domains)
+NS2.GEORGEBROWN.CA (has 1 domains)
+  
+Tech Contact	Dorin Grunberg
+George Brown College
+P.O. Box 1015 Station B,
+Toronto, ON, M5T2T9, ca
+
+(p) (f)
+IP Address	99.79.139.11 - 3 other sites hosted on this server
+  
+IP Location	Canada - Quebec - Montreal - Amazon.com Inc.
+ASN	Canada AS16509 AMAZON-02, US (registered May 04, 2000)
+Hosting History	2 changes on 3 unique name servers over 6 years	  
+ Website
+Website Title	  500 SSL negotiation failed:	  
+Response Code	500
+Terms	812 (Unique: 395, Linked: 446)
+Images	36 (Alt tags missing: 9)
+Links	195   (Internal: 178, Outbound: 13)
+
+
+
+Whois Record for YouTube.com
+How does this work?
+
+ Domain Profile
+Registrant Org	Google LLC
+Registrant Country	us
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+IANA ID: 292
+URL: http://www.markmonitor.com
+Whois Server: whois.markmonitor.com
+
+(p)
+Registrar Status	clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited
+Dates	5,906 days old
+Created on 2005-02-14
+Expires on 2022-02-14
+Updated on 2021-01-14	  
+Name Servers	NS1.GOOGLE.COM (has 15,633 domains)
+NS2.GOOGLE.COM (has 15,633 domains)
+NS3.GOOGLE.COM (has 15,633 domains)
+NS4.GOOGLE.COM (has 15,633 domains)
+  
+Tech Contact	—
+IP Address	142.250.69.206 - 592 other sites hosted on this server
+  
+IP Location	United States Of America - California - Mountain View - Google Llc
+ASN	United States Of America AS15169 GOOGLE, US (registered Mar 30, 2000)
+Domain Status	Registered And Active Website
+IP History	263 changes on 263 unique IP addresses over 16 years	  
+Registrar History	2 registrars with 1 drop	  
+Hosting History	5 changes on 5 unique name servers over 16 years	  
+ Website
+Website Title	  YouTube	  
+Server Type	ESF
+Response Code	200
+Terms	3,257 (Unique: 513, Linked: 18)
+Images	0 (Alt tags missing: 0)
+Links	14   (Internal: 12, Outbound: 2)
+
+Whois Record for IMDB.com
+How does this work?
+
+ Domain Profile
+Registrant Org	IMDb.com, Inc.
+Registrant Country	us
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+IANA ID: 292
+URL: http://www.markmonitor.com
+Whois Server: whois.markmonitor.com
+
+(p)
+Registrar Status	clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited, serverDeleteProhibited, serverTransferProhibited, serverUpdateProhibited
+Dates	9,235 days old
+Created on 1996-01-04
+Expires on 2024-01-03
+Updated on 2019-08-26	  
+Name Servers	NS1.P31.DYNECT.NET (has 229,590 domains)
+NS2.P31.DYNECT.NET (has 229,590 domains)
+NS3.P31.DYNECT.NET (has 229,590 domains)
+NS4.P31.DYNECT.NET (has 229,590 domains)
+PDNS1.ULTRADNS.NET (has 93,147 domains)
+PDNS2.ULTRADNS.NET (has 93,147 domains)
+PDNS3.ULTRADNS.ORG (has 476 domains)
+PDNS4.ULTRADNS.ORG (has 476 domains)
+PDNS5.ULTRADNS.INFO (has 59 domains)
+PDNS6.ULTRADNS.CO.UK (has 2,906 domains)
+  
+Tech Contact	—
+IP Address	13.224.13.53 - 1 other site is hosted on this server
+  
+IP Location	United States Of America - Washington - Seattle - Amazon.com Inc.
+ASN	United States Of America AS16509 AMAZON-02, US (registered May 04, 2000)
+Domain Status	Registered And Active Website
+IP History	394 changes on 394 unique IP addresses over 17 years	  
+Registrar History	2 registrars with 1 drop	  
+Hosting History	7 changes on 5 unique name servers over 17 years	  
+ Website
+Website Title	None given.	  
+Server Type	Server
+Response Code	200
+Terms	89 (Unique: 50, Linked: 82)
+Images	1 (Alt tags missing: 1)
+Links	34   (Internal: 34, Outbound: 0)

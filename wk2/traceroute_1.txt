@@ -1,0 +1,22 @@
+(base) matthewmukherjee@Matthews-MacBook-Pro ~ % traceroute tesla.com
+traceroute to tesla.com (199.66.11.62), 64 hops max, 52 byte packets
+ 1  mynetwork (192.168.2.1)  2.314 ms  1.335 ms  1.671 ms
+ 2  10.11.6.17 (10.11.6.17)  14.287 ms  17.556 ms  2.534 ms
+ 3  * * *
+ 4  tcore4-toronto21_hu2/5/0/3_35.net.bell.ca (64.230.59.188)  17.991 ms  19.635 ms  24.102 ms
+ 5  tcore4-chicagocp_hundredgige0-8-0-0.net.bell.ca (64.230.79.153)  19.920 ms  19.475 ms  19.968 ms
+ 6  bx6-chicagodt_0-7-0-0.net.bell.ca (64.230.79.87)  17.954 ms  20.412 ms  20.172 ms
+ 7  xe-7-1-0-xcr1.chg.cw.net (195.2.14.25)  18.733 ms  17.191 ms  17.192 ms
+ 8  akamai-us-gw.chg.cw.net (195.89.107.134)  17.964 ms  14.919 ms  15.675 ms
+ 9  po110.bs-a.sech-ord.netarch.akamai.com (23.57.98.243)  18.709 ms
+    po110.bs-b.sech-ord.netarch.akamai.com (23.57.98.245)  16.933 ms
+    po110.bs-a.sech-ord.netarch.akamai.com (23.57.98.243)  15.678 ms
+10  a72-52-1-167.deploy.static.akamaitechnologies.com (72.52.1.167)  15.985 ms  15.494 ms  15.654 ms
+11  ae121.access-a.sech-ord.netarch.akamai.com (23.57.98.251)  15.994 ms  15.713 ms
+    ae120.access-a.sech-ord.netarch.akamai.com (23.57.98.249)  16.022 ms
+12  ae156-2220.access-a.sech-iad.netarch.akamai.com (23.211.114.15)  25.038 ms
+    93.191.173.221 (93.191.173.221)  29.396 ms  29.524 ms
+13  * * *
+14  199.66.11.239 (199.66.11.239)  79.004 ms  78.712 ms  79.689 ms
+15  * * *
+
