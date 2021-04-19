@@ -1,0 +1,1 @@
+User input should not be stored as it can be read in plain text with no sanitation

@@ -1,0 +1,5 @@
+hping3 -S  -c 10000 --rand-source
+
+hping3 --udp --spoof -t 90 -c 9000 
+
+hping3 --icmp -c 11000 -i u75000 --data 1 
